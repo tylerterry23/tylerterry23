@@ -54,8 +54,6 @@ I am a senior Computer Science Major at Western Michigan University.
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tylerterry23&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tylerterry23&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ### ✍️ Blog Posts : 
