@@ -53,8 +53,6 @@ I am a senior Computer Science Major at Western Michigan University with a combi
   &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux (Ubuntu)" alt="Linux (Ubuntu)" width="40" height="40"/>
   &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/utm/utm-original.svg" title="UTM" alt="UTM" width="40" height="40"/>
-  &nbsp;
   ...
 </p>
 
