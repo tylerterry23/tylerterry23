@@ -41,9 +41,61 @@ I am a senior Computer Science Major at Western Michigan University with a combi
   &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
+  &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>
+  &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>
+  &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/assembly/assembly-original.svg" title="Assembly Language" alt="Assembly Language" width="40" height="40"/>
+  &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" title="Django" alt="Django" width="40" height="40"/>
+  &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>
+  &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux (Ubuntu)" alt="Linux (Ubuntu)" width="40" height="40"/>
+  &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vmware/vmware-original.svg" title="VMware" alt="VMware" width="40" height="40"/>
+  &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/utm/utm-original.svg" title="UTM" alt="UTM" width="40" height="40"/>
+  &nbsp;
 </p>
 
 ---
 
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tylerterry23&theme=dark&background=000000)](https://git.io/streak-stats)
+
+---
+
+### 🎓 &nbsp;Education:
+
+- Western Michigan University, Kalamazoo, MI: B.S. in Computer Science (Expected Graduation: June 2023)
+- Kalamazoo Community College, Kalamazoo, MI: A.S. in Computer Science (2019 - 2021)
+- Oakland Schools Technical Campuses, Wixom, MI: Early College Program in Computer Programming (2017 - 2018)
+
+### 💼 &nbsp;Experience:
+
+- Python Tutoring (Online / Freelance): June 2021 - Current
+
+### 🎯 &nbsp;Skills:
+
+- Proficient In: Python, HTML/CSS, MySQL, Javascript, Assembly, and C
+- Familiar with PHP, C#, R, and Assembly Language
+- Tools & Technologies: Django, Git / Github, Bootstrap, Tailwind, Linux(Ubuntu), VMware, UTM, collaboration tools
+
+### 📚 &nbsp;Projects:
+
+- Western Michigan University Industry 4.0 Lab (Team): Django, Tailwind CSS, HTML, Python, Javascript, MySQL, tkinter
+- Workout and Nutrition Tracker: Django, Tailwind CSS, HTML, CSS, Python, Javascript, MySQL
+- EEPROM Text-Based Adventure Game: C, MSP430 microcontroller, EEPROM module, potentiometer, buttons
+- Personal Desktop Assistant: Python
+
+### 📧 &nbsp;Contact:
+
+- Email: tyler.b.terry@wmich.edu
+- Phone: (248) 497-7128
+- LinkedIn: [linkedin.com/in/tyler-terry/](https://www.linkedin.com/in/tyler-terry/)
+- GitHub: [github.com/tylerterry23](https://github.com/tylerterry23)
+
+
