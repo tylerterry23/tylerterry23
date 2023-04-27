@@ -49,7 +49,7 @@ I am a senior Computer Science Major at Western Michigan University with a combi
   &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/assembly/assembly-original.svg" title="Assembly Language" alt="Assembly Language" width="40" height="40"/>
   &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" title="Django" alt="Django" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>
   &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>
   &nbsp;
