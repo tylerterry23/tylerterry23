@@ -13,7 +13,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-Hey! Welcome to my GitHub. My name is Tyler. I’m a full time caffeinae enthusiast who just so happens to write some code here and there.
+Hey! Welcome to my GitHub. My name is Tyler. I’m a full-time caffeine enthusiast who just so happens to write some code here and there.
 
 I graduated from Western Michigan University in 2023 with a degree in Computer Science and currently work as a Software Application Engineer. My focus recently has been on transforming complex, data-heavy manual processes into efficient, automated web applications with modern, user-friendly frontends. My tech stack includes most notably Python (Django), JavaScript (React), and MySQL but I've dabbled all around.
 
